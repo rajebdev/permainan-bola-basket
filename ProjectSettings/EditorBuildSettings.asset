@@ -1,0 +1,35 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/Intro.unity
+    guid: 9fc0d4010bbf28b4594072e72b8655ab
+  - enabled: 1
+    path: Assets/Scenes/GerakPokok.unity
+    guid: 02a6a0bf686d1cf4880bcb7af186a3f0
+  - enabled: 1
+    path: Assets/Scenes/GerakTambahan.unity
+    guid: 139951dd5cdd1f845a4bffa3ba51f4c5
+  - enabled: 1
+    path: Assets/Scenes/Materi.unity
+    guid: 3fcac15549b73f14ab7cae84d78f56ec
+  - enabled: 1
+    path: Assets/Scenes/Melempar.unity
+    guid: d45820075684fa744a98c74cb55c3d75
+  - enabled: 1
+    path: Assets/Scenes/Menu.unity
+    guid: 6e9fee40b3d3ce34698610b66459bdbc
+  - enabled: 1
+    path: Assets/Scenes/Peraturan.unity
+    guid: 1ac3e77b4f71a1a488b7875e24b0f3cb
+  - enabled: 1
+    path: Assets/Scenes/Quiz.unity
+    guid: 606e11243780a1440bc2ce0840f52c91
+  - enabled: 1
+    path: Assets/Scenes/SaranaPrasarana.unity
+    guid: 2dcb222e7508a7f4a8daabe730d37e9a
+  m_configObjects: {}
