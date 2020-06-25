@@ -3997,11 +3997,8 @@ MonoBehaviour:
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 0
     m_LineSpacing: 1
-  m_Text: 'Passing Setinggi Dada (Chest Pass) adalah melempar bola setinggi dada
-    dengan  menggunakan kedua tangan. Lemparan ini digunakan untuk operan jarak pendek
-    kepada teman yang tidak dijaga lawan dengan ketat.
-
-'
+  m_Text: Passing Diatas Kepala ( Overhead Pass) adalah melempar bola dengan ketinggian
+    diatas kepala. Digunakan ketika pemain dikepung oleh lawan.
 --- !u!222 &519751116
 CanvasRenderer:
   m_ObjectHideFlags: 0
